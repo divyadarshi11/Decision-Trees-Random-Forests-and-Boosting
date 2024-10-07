@@ -1,4 +1,5 @@
-# Decision-Trees-Random-Forests-and-Boosting
+# TitanicTriEnsemble                                                                                                                                     
+***Decision-Trees-Random-Forests-and-Boosting***
 CSE - 6363 - Assignment 4
 
 **********************************************************************
